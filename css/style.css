@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-family: underline;
+  font-family: bold;
 }
 
 #tasks .completed {
